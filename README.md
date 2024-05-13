@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/header.png"/>
+<img align="center" alt="Header" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/banner_developer-.jpg"/>
 </div>
 
 -----
