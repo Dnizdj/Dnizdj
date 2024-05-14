@@ -32,17 +32,17 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Denis J.</code>, tenho 19 anos, moro em Contagem e sou um amante da programação. Atualmente estou estudando <code>Sistema da Informação</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também trabalhp de assistente de tecnico e informatica.
 </div>
 
 -----
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/programming-computer-frog.gif" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/gif%20git.gif" width="340px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/programming-computer-frog.gif"/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/gif%20git.gif"/>Meus interesses pessoais:
 
 <div align="justify">
 <p> 
