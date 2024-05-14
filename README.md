@@ -12,17 +12,17 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Dnizdj" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Dnizdj" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/social.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:Dnizdj@gmail.com" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:Dnizdj@gmail.com" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/gmail.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/Dnizdj/" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/Dnizdj/" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/instagram.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/Dnizdj/" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/Dnizdj/" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/linkedin.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/Dnizdj/Dnizdj/blob/main/img/discor%20image.png" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
