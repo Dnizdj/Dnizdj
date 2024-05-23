@@ -67,3 +67,10 @@
 </div>
 
 -----
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x2bpk2vl7yeivme5vunualxwv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31x2bpk2vl7yeivme5vunualxwv4">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31x2bpk2vl7yeivme5vunualxwv4" alt="Data Card for Spotify">
+</a>
+
